@@ -37,17 +37,6 @@ wifi-scanner/
 
 ## 📦 Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/swarupdhar011-sketch/wifi-scanner.git
-```
-
-Go to the project folder:
-
-```bash
-cd wifi-scanner
-```
 
 Install dependencies (Linux version):
 
